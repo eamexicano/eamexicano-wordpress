@@ -1,0 +1,32 @@
+/*
+ThemeName: eamexicano
+Theme URI: blog.eamexicano.com
+Description: Archivos para realizar un tema
+Author: eamexicano
+Author URI: blog.eamexicano.com
+Version: 0.1.0
+License: The MIT License (MIT)
+License URI: http://opensource.org/licenses/MIT
+*/
+
+* { }
+
+html, body {}
+article {}
+section {}  
+aside {}
+nav {}
+  
+h1 {}
+h2 {}
+p {}
+ul {}
+li {}  
+a {}
+  
+.content {}
+.posts {}
+.entry {}
+.sidebar {}
+  
+.widget-title {}
